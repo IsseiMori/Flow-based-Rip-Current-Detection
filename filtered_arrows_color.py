@@ -265,7 +265,7 @@ if __name__ == "__main__":
 	)
 
 	parser.add_argument(
-		"--height", help="resized height of the output", required=False, type=int, default=480,
+		"--height", help="resized height of the output", required=False, type=int, default=720,
 	)
 
 	parser.add_argument(
